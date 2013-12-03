@@ -1480,7 +1480,7 @@ LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100
 LPDX|LipoScience, Inc. - Common Stock|G|N|N|100
 LPHI|Life Partners Holdings Inc - Common Stock|Q|N|N|100
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|100
-LPLT|Credit Suisse AG - VelocityShares 2x Long Patinum ETN |G|N|N|100
+LPLT|Credit Suisse AG - VelocityShares 2x Long Patinum ETN|G|N|N|100
 LPNT|LifePoint Hospitals, Inc. - Common Stock|Q|N|N|100
 LPSB|LaPorte Bancorp, Inc. - Common Stock|S|N|N|100
 LPSN|LivePerson, Inc. - Common Stock|Q|N|N|100
@@ -1772,7 +1772,7 @@ OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
-OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|N|100
+OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|D|100
 OCRX|Ocera Therapeutics, Inc. - Common Stock|G|N|N|100
 OCZ|OCZ Technology Group Inc - Common Stock|S|N|N|100
 ODFL|Old Dominion Freight Line, Inc. - Common Stock|Q|N|N|100
@@ -1935,7 +1935,6 @@ PMD|Psychemedics Corporation - Common Stock|S|N|N|100
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100
 PMFG|PMFG, Inc. - Common Stock|Q|N|N|100
 PMNA|PowerShares MENA Frontier Countries Portfolio|G|N|N|100
-PMTC|PTC Inc. - Common Stock|Q|N|N|100
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100
 PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
@@ -1994,6 +1993,7 @@ PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100
 PSTR|PostRock Energy Corporation - Common Stock|G|N|N|100
 PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|N|100
+PTC|PTC Inc. - Common Stock|Q|N|N|100
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100
 PTEK|PokerTek, Inc. - Common Stock|S|N|N|100
 PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100
@@ -2718,6 +2718,7 @@ XGTIW|XG Technology, Inc - Warrants|S|N|N|100
 XIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
 XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100
 XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100
+XNCR|Xencor, Inc. - Common Stock|G|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
 XOMA|XOMA Corporation - Common Stock|G|N|N|100
 XONE|The ExOne Company - Common Stock|G|N|N|100
@@ -2769,4 +2770,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 1202201318:01|||||
+File Creation Time: 1203201318:01|||||

@@ -16,11 +16,11 @@ class CompaniesWorker
 			csv_files.each do |file|
 				ftp.gettextfile(file, "db/csv/" + file)
 				CSV.new(open("db/csv/" + file), :headers => :first_row, :col_sep => "|", :quote_char => "\x00").each do |row|
-				    company = Company.find_or_initialize_by_ticker(row[0])
+				    company = Company.find_or_initialize_by(tiker: row[0])
 				    company.update_attributes :name => row[1]
 				end
 			end	 
 		end
-		CompaniesHistoryWorker.perform_async()
+		# CompaniesHistoryWorker.perform_async()
 	end
 end
