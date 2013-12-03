@@ -5,7 +5,7 @@ class CompanyHistoryWorker
 	def perform(id)
 		require "yahoo_stock"
 		company = Company.find(id)
-		history = YahooStock::History.new(:stock_symbol => company.ticker, :start_date => Time.zone.now.to_date - 365.days, :end_date => Time.zone.now.to_date - 1.day)
+		history = YahooStock::History.new(:stock_symbol => company.ticker, :start_date => Time.zone.now.to_date - 365.days, :end_date => Time.zone.now.to_date - 2.days)
 		stock_history = history.results(:to_hash).output
 		stock_history.each do |trade_values|
 			# date=>"2013-11-11", :open=>"33.57", :high=>"33.99", :low=>"33.25", :close=>"33.82", :volume=>"15830300", :adj_close=>"33.82"

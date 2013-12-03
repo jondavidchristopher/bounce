@@ -15,7 +15,7 @@ class CreateCompanyTradeHistories < ActiveRecord::Migration
 
       t.timestamps
     end
-    add_index :company_trade_histories, [:id, :date], :unique => true
+    add_index :company_trade_histories, [:company_id, :date], :unique => true
     add_index :company_trade_histories, :company_id
     add_index :company_trade_histories, :open
     add_index :company_trade_histories, :high

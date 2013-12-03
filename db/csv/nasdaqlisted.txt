@@ -698,6 +698,7 @@ DGICA|Donegal Group, Inc. - Class A Common Stock|Q|N|N|100
 DGICB|Donegal Group, Inc. - Class B Common Stock|Q|N|N|100
 DGII|Digi International Inc. - Common Stock|Q|N|N|100
 DGIT|Digital Generation, Inc. - Common Stock|Q|N|N|100
+DGLD|Credit Suisse AG - VelocityShares 3x Inverse Gold ETN|G|N|N|100
 DGLY|Digital Ally, Inc. - Common Stock|S|N|N|100
 DGRE|WisdomTree Emerging Markets Dividend Growth Fund|G|N|N|100
 DGRS|WisdomTree U.S. SmallCap Dividend Growth Fund|G|N|N|100
@@ -735,6 +736,7 @@ DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
 DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|N|100
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100
 DSKX|DS Healthcare Group, Inc. - Common Stock|S|N|N|100
+DSLV|Credit Suisse AG - VelocityShares 3x Inverse Silver ETN|G|N|N|100
 DSPG|DSP Group, Inc. - Common Stock|Q|N|N|100
 DSWL|Deswell Industries, Inc. - Common Shares|G|N|N|100
 DTLK|Datalink Corporation - Common Stock|G|N|N|100
@@ -1309,6 +1311,7 @@ IPCM|IPC The Hospitalist Company, Inc. - Common Stock|Q|N|N|100
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100
 IPHS|Innophos Holdings, Inc. - Common Stock|Q|N|N|100
+IPLT|Credit Suisse AG - VelocityShares 2x Inverse Platinum ETN|G|N|N|100
 IPWR|Ideal Power Inc. - Common Stock|S|N|N|100
 IPXL|Impax Laboratories, Inc. - Common Stock|Q|N|N|100
 IQNT|Inteliquent, Inc. - Common Stock|Q|N|N|100
@@ -1451,6 +1454,7 @@ LIWA|Lihua International, Inc. - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
 LLEN|L&L Energy, Inc. - Common Stock|Q|N|N|100
+LLEX|Lilis Energy, Inc. - Common Stock|G|N|D|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
 LLTC|Linear Technology Corporation - Common Stock|Q|N|N|100
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100
@@ -1476,6 +1480,7 @@ LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100
 LPDX|LipoScience, Inc. - Common Stock|G|N|N|100
 LPHI|Life Partners Holdings Inc - Common Stock|Q|N|N|100
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|100
+LPLT|Credit Suisse AG - VelocityShares 2x Long Patinum ETN |G|N|N|100
 LPNT|LifePoint Hospitals, Inc. - Common Stock|Q|N|N|100
 LPSB|LaPorte Bancorp, Inc. - Common Stock|S|N|N|100
 LPSN|LivePerson, Inc. - Common Stock|Q|N|N|100
@@ -2066,7 +2071,6 @@ RDIB|Reading International Inc - Class B Voting Common Stock|S|N|N|100
 RDNT|RadNet, Inc. - Common Stock|G|N|N|100
 RDWR|Radware Ltd. - Ordinary Shares|Q|N|N|100
 RECN|Resources Connection, Inc. - Common Stock|Q|N|N|100
-RECV|Recovery Energy, Inc. - Common Stock|G|N|D|100
 REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|G|N|N|100
 REFR|Research Frontiers Incorporated - Common Stock|S|N|N|100
 REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100
@@ -2287,6 +2291,7 @@ SONC|Sonic Corp. - Common Stock|Q|N|N|100
 SONS|Sonus Networks, Inc. - Common Stock|Q|N|N|100
 SORL|SORL Auto Parts, Inc. - Common Stock|G|N|N|100
 SOXX|iShares PHLX SOX Semiconductor Sector Index Fund|G|N|N|100
+SP|SP Plus Corporation - Common Stock|Q|N|N|100
 SPAN|Span-America Medical Systems, Inc. - Common Stock|G|N|N|100
 SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPBC|SP Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2329,7 +2334,6 @@ SSNC|SS&C Technologies Holdings, Inc. - Common Stock|Q|N|N|100
 SSRI|Silver Standard Resources Inc. - Common Stock|Q|N|N|100
 SSYS|Stratasys, Ltd. - Common Stock|Q|N|N|100
 STAA|STAAR Surgical Company - Common Stock|G|N|N|100
-STAN|Standard Parking Corporation - common stock|Q|N|N|100
 STB|Student Transportation Inc - Common shares|Q|N|N|100
 STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100
 STBZ|State Bank Financial Corporation. - Common Stock|S|N|N|100
@@ -2492,6 +2496,8 @@ TTPH|Tetraphase Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 TTS|Tile Shop Hldgs, Inc. - Common Stock|Q|N|N|100
 TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100
 TUES|Tuesday Morning Corp. - Common Stock|Q|N|N|100
+TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
+TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
 TWER|Towerstream Corporation - Common Stock|S|N|N|100
 TWGP|Tower Group International, Ltd. - Common Stock|Q|N|E|100
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100
@@ -2520,6 +2526,7 @@ UFCS|United Fire Group, Inc - Common Stock|Q|N|N|100
 UFPI|Universal Forest Products, Inc. - Common Stock|Q|N|N|100
 UFPT|UFP Technologies, Inc. - Common Stock|S|N|N|100
 UG|United-Guardian, Inc. - Common Stock|G|N|N|100
+UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
@@ -2549,6 +2556,7 @@ USBI|United Security Bancshares, Inc. - Common Stock|S|N|N|100
 USCR|U S Concrete, Inc. - Common Stock|S|N|N|100
 USEG|U.S. Energy Corp. - Common Stock|S|N|N|100
 USLM|United States Lime & Minerals, Inc. - Common Stock|G|N|N|100
+USLV|Credit Suisse AG - VelocityShares 3x Long Silver ETN|G|N|N|100
 USMD|USMD Holdings, Inc. - Common Stock|S|N|N|100
 USMO|USA Mobility, Inc. - Common Stock|Q|N|N|100
 USTR|United Stationers Inc. - Common Stock|Q|N|N|100
@@ -2582,6 +2590,8 @@ VIDE|Video Display Corporation - Common Stock|G|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
 VIEW|Viewtran Group, Inc. - Common Stock|Q|N|N|100
 VIFL|Food Technology Service, Inc. - Common Stock|S|N|N|100
+VIIX|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
+VIIZ|Credit Suisse AG - VelocityShares VIX Medium Term ETN|G|N|N|100
 VIMC|Vimicro International Corporation - American depositary shares, each representing four ordinary shares|G|N|N|100
 VIP|VimpelCom Ltd. - American Depositary Shares|Q|N|N|100
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
@@ -2705,6 +2715,7 @@ WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100
 XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
 XGTI|XG Technology, Inc - Common Stock|S|N|N|100
 XGTIW|XG Technology, Inc - Warrants|S|N|N|100
+XIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
 XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100
 XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
@@ -2743,6 +2754,7 @@ ZIONW|Zions Bancorporation - Warrants 05/21/2020|Q|N|N|100
 ZIONZ|Zions Bancorporation - Warrants|Q|N|N|100
 ZIOP|ZIOPHARM Oncology Inc - Common Stock|S|N|N|100
 ZIPR|ZipRealty, Inc. - Common Stock|G|N|N|100
+ZIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Medium Term ETN|G|N|N|100
 ZIXI|Zix Corporation - Common Stock|Q|N|N|100
 ZJZZT|NASDAQ TEST STOCK|Q|Y|N|100
 ZLCS|Zalicus Inc. - Common Stock|S|N|N|100
@@ -2757,4 +2769,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 1129201318:01|||||
+File Creation Time: 1202201318:01|||||

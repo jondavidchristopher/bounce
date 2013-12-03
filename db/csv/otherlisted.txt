@@ -157,7 +157,7 @@ ALL|Allstate Corporation (The) Common Stock|N|ALL|N|100|N|ALL
 ALL$A|Allstate Corporation (The) Dep Shs Repstg 1/1000th Perp Pfd Ser A|N|ALLpA|N|100|N|ALL-A
 ALL$B|Allstate Corporation (The) 5.100% Fixed-to-Floating Rate Subordinated Debentures due 2053|N|ALLpB|N|100|N|ALL-B
 ALL$C|Allstate Corporation (The) Dep Shs Repstg 1/1000th Int Shs Pfd Stk Ser C|N|ALLpC|N|100|N|ALL-C
-ALLE.V|Allegion plc Ordinary Shares When Issued|N|ALLEw|N|100|N|ALLE#
+ALLE|Allegion plc Ordinary Shares|N|ALLE|N|100|N|ALLE
 ALLY$A|GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities, Series 2|N|ALLYpA|N|100|N|ALLY-A
 ALLY$B|Ally Financial Inc Fixed Rate Floating Rate Perpetual Preferred Stock, Series A|N|ALLYpB|N|100|N|ALLY-B
 ALN|American Lorain Corporation Common Stock|A|ALN|N|100|N|ALN
@@ -1110,7 +1110,6 @@ DG|Dollar General Corporation Common Stock|N|DG|N|100|N|DG
 DGAZ|VelocityShares 3X Inverse Natural Gas ETN linked to the S&P GSCI Natural Gas INdex Excess Return|P|DGAZ|N|100|N|DGAZ
 DGI|DigitalGlobe, Inc Common Stock|N|DGI|N|100|N|DGI
 DGL|PowerShares DB Gold Fund|P|DGL|Y|100|N|DGL
-DGLD|VelocityShares 3x Inverse Gold ETN|P|DGLD|N|100|N|DGLD
 DGP|Deutsche Bank AG PowerShares DB Gold Double Long ETN|P|DGP|N|100|N|DGP
 DGS|WisdomTree Emerging Market SmallCap Fund|P|DGS|Y|100|N|DGS
 DGSE|DGSE Companies, Inc. Common Stock|A|DGSE|N|100|N|DGSE
@@ -1208,7 +1207,6 @@ DRV|Drexion Daily Real Estate Bear 3x Shares|P|DRV|Y|100|N|DRV
 DRW|WisdomTree Global ex-US Real Estate Index|P|DRW|Y|100|N|DRW
 DSI|iShares KLD 400 Social Index Fund|P|DSI|Y|100|N|DSI
 DSL|DoubleLine Income Solutions Fund Common Shares of Beneficial Interests|N|DSL|N|100|N|DSL
-DSLV|VelocityShares 3x Inverse Silver ETN|P|DSLV|N|100|N|DSLV
 DSM|Dreyfus Strategic Municipal Bond Fund, Inc. Common Stock|N|DSM|N|100|N|DSM
 DSS|Document Security Systems, Inc. Common Stock|A|DSS|N|100|N|DSS
 DST|DST Systems, Inc. Common Stock|N|DST|N|100|N|DST
@@ -1437,6 +1435,7 @@ EPR|EPR Properties Common Stock|N|EPR|N|100|N|EPR
 EPR$C|EPR Properties 5.75% Series C Cumulative Convertible Preferred Shares|N|EPRpC|N|100|N|EPR-C
 EPR$E|EPR Properties Series E Cumulative Conv Pfd Shs Ser E|N|EPRpE|N|100|N|EPR-E
 EPR$F|EPR Properties Pfd Ser F|N|EPRpF|N|100|N|EPR-F
+EPRO|AdvisorShares EquityPro ETF|P|EPRO|Y|100|N|EPRO
 EPS|WisdomTree Earnings 500 Fund|P|EPS|Y|100|N|EPS
 EPU|iShares MSCI All Peru Capped ETF|P|EPU|Y|100|N|EPU
 EPV|ProShares UltraShort FTSE Europe ETF|P|EPV|Y|100|N|EPV
@@ -1836,7 +1835,7 @@ GCA|Global Cash Access Holdings, Inc. Common Stock|N|GCA|N|100|N|GCA
 GCAP|GAIN Capital Holdings, Inc. Common Stock|N|GCAP|N|100|N|GCAP
 GCC|GreenHaven Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
-GCH|Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
+GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
@@ -2387,7 +2386,6 @@ IPHI|Inphi Corporation Common Stock $0.001 par value|N|IPHI|N|100|N|IPHI
 IPI|Intrepid Potash, Inc Common Stock|N|IPI|N|100|N|IPI
 IPK|SPDR S&P International Technology Sector ETF|P|IPK|Y|100|N|IPK
 IPL$D|Interstate Power & Light Company Perp Prd Ser D|N|IPLpD|N|100|N|IPL-D
-IPLT|VelocityShares 2x Inverse Platinum ETN|P|IPLT|N|100|N|IPLT
 IPN|SPDR S&P International Industrial Sector ETF|P|IPN|Y|100|N|IPN
 IPO|Renaissance IPO ETF|P|IPO|Y|100|N|IPO
 IPS|SPDR S&P International Consumer Staples Sector ETF|P|IPS|Y|100|N|IPS
@@ -2398,7 +2396,6 @@ IQDF|FlexShares International Quality Dividend Index Fund|P|IQDF|Y|100|N|IQDF
 IQDY|FlexShares International Quality Dividend Dynamic Index Fund|P|IQDY|Y|100|N|IQDY
 IQI|Invesco Quality Municipal Income Trust Common Stock|N|IQI|N|100|N|IQI
 IR|Ingersoll-Rand plc (Ireland)|N|IR|N|100|N|IR
-IR.V|Ingersoll-Rand plc (Ireland) Ordinary Shares Ex-Distribution When Issued|N|IRw|N|100|N|IR#
 IRC|Inland Real Estate Corporation Common Stock|N|IRC|N|100|N|IRC
 IRC$A|Inland Real Estate Corporation 8.125% Series A Cumulative Redeemable Preferred Stock, $0.01 par value|N|IRCpA|N|100|N|IRC-A
 IRE|Governor and Company of the Bank of Ireland (The) Common Stock|N|IRE|N|100|N|IRE
@@ -2724,6 +2721,7 @@ LAQ|Aberdeen Latin America Equity Fund, Inc.|A|LAQ|N|100|N|LAQ
 LAS|Lentuo International Inc. American Depositary Shares, each representing two ordinary shares|N|LAS|N|100|N|LAS
 LATM|Market Vectors Latin America Small-Cap Index ETF|P|LATM|Y|100|N|LATM
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
+LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBF|DSW Global High Income Fund, Inc. Common Stock|N|LBF|N|100|N|LBF
 LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
 LBMH|Liberator Medical Holdings, Inc. Common Stock|A|LBMH|N|100|N|LBMH
@@ -2789,7 +2787,6 @@ LOV|Spark Networks, Inc. Common Stock|A|LOV|N|100|N|LOV
 LOW|Lowe's Companies, Inc. Common Stock|N|LOW|N|100|N|LOW
 LPI|Laredo Petroleum Holdings, Inc. Common Stock|N|LPI|N|100|N|LPI
 LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES|N|LPL|N|100|N|LPL
-LPLT|VelocityShares 2x Long Patinum ETN|P|LPLT|N|100|N|LPLT
 LPS|Lender Processing Services, Inc Lender Processing Services, Inc|N|LPS|N|100|N|LPS
 LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
@@ -2800,7 +2797,6 @@ LSC|HSBC Global Absolute Limited ELEMENTS S&P CTI Index ETN|P|LSC|N|100|N|LSC
 LSG|Lake Shore Gold Corp Ordinary Shares (Canada)|A|LSG|N|100|N|LSG
 LSTK|iPath Pure Beta Livestock ETN|P|LSTK|N|100|N|LSTK
 LTC|LTC Properties, Inc. Common Stock|N|LTC|N|100|N|LTC
-LTD|L Brands, Inc.|N|LTD|N|100|N|LTD
 LTL|ProShares Ultra Telecommunications ProShares|P|LTL|Y|100|N|LTL
 LTM|Life Time Fitness Common Stock|N|LTM|N|100|N|LTM
 LTPZ|Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund|P|LTPZ|Y|100|N|LTPZ
@@ -4008,7 +4004,6 @@ RPX|Columbia Large Cap Growth ETF|P|RPX|Y|100|N|RPX
 RQI|Cohen & Steers Quality Income Realty Fund Inc Common Shares|N|RQI|N|100|N|RQI
 RRC|Range Resources Corporation Common Stock|N|RRC|N|100|N|RRC
 RRF|WisdomTree Global Real Return Fund|P|RRF|Y|100|N|RRF
-RRGR|AdvisorShares Global Alpha & Beta ETF|P|RRGR|Y|100|N|RRGR
 RRMS|Rose Rock Midstream, L.P. Common Units Representing Limited Partner Interests|N|RRMS|N|100|N|RRMS
 RRTS|Roadrunner Transportation Systems, Inc Common Stock|N|RRTS|N|100|N|RRTS
 RS|Reliance Steel & Aluminum Co. Common Stock|N|RS|N|100|N|RS
@@ -4641,8 +4636,6 @@ TUZ|PIMCO 1-3 Year US Treasury Index Exchage-Traded Fund|P|TUZ|Y|100|N|TUZ
 TV|Grupo Televisa S.A. Common Stock|N|TV|N|100|N|TV
 TVC|Tennessee Valley Authority Common Stock|N|TVC|N|100|N|TVC
 TVE|Tennessee Valley Authority|N|TVE|N|100|N|TVE
-TVIX|VelocityShares Daily 2x VIX Short Term ETN|P|TVIX|N|100|N|TVIX
-TVIZ|VelocityShares Daily 2x VIX Medium Term ETN|P|TVIZ|N|100|N|TVIZ
 TW|Towers Watson & Co Common Stock Class A|N|TW|N|100|N|TW
 TWC|Time Warner Cable Inc Common Stock|N|TWC|N|100|N|TWC
 TWI|Titan International, Inc. Common Stock|N|TWI|N|100|N|TWI
@@ -4718,7 +4711,6 @@ UGAZ|VelocityShares 3X Long Natural Gas ETN linked to the S&P GSCI Natural Gas I
 UGE|ProShares Ultra Consumer Goods|P|UGE|Y|100|N|UGE
 UGI|UGI Corporation Common Stock|N|UGI|N|100|N|UGI
 UGL|ProShares Ultra Gold|P|UGL|Y|100|N|UGL
-UGLD|VelocityShares 3x Long Gold ETN|P|UGLD|N|100|N|UGLD
 UGP|Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)|N|UGP|N|100|N|UGP
 UHN|United States Diesel Heating Oil Fund LP|P|UHN|Y|100|N|UHN
 UHS|Universal Health Services, Inc. Common Stock|N|UHS|N|100|N|UHS
@@ -4777,7 +4769,6 @@ USCI|United States Commodity Index Fund ETV|P|USCI|Y|100|N|USCI
 USD|ProShares Ultra Semiconductors|P|USD|Y|100|N|USD
 USG|USG Corporation Common Stock|N|USG|N|100|N|USG
 USL|United States 12 Month Oil|P|USL|Y|100|N|USL
-USLV|VelocityShares 3x Long Silver ETN|P|USLV|N|100|N|USLV
 USM|United States Cellular Corporation Common Stock|N|USM|N|100|N|USM
 USMI|United States Metals Index Fund ETV|P|USMI|Y|100|N|USMI
 USMV|iShares MSCI USA Minimum Volatility ETF|P|USMV|Y|100|N|USMV
@@ -4855,8 +4846,6 @@ VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF - DNQ|P|VHT|Y|100|N|VHT
 VIG|Vanguard Div Appreciation ETF - DNQ|P|VIG|Y|100|N|VIG
 VII|Vicon Industries, Inc, Common Stock|A|VII|N|100|N|VII
-VIIX|VelocityShares VIX Short Term ETN|P|VIIX|N|100|N|VIIX
-VIIZ|VelocityShares VIX Medium Term ETN|P|VIIZ|N|100|N|VIIZ
 VIOG|Vanguard S&P Small-Cap 600 Growth ETF|P|VIOG|Y|100|N|VIOG
 VIOO|Vanguard S&P Small-Cap 600 ETF|P|VIOO|Y|100|N|VIOO
 VIOV|Vanguard S&P Small-Cap 600 Value ETF|P|VIOV|Y|100|N|VIOV
@@ -5059,7 +5048,6 @@ XHB|SPDR Series Trust SPDR Homebuilders ETF|P|XHB|Y|100|N|XHB
 XHE|SPDR S&P Health Care Equipment|P|XHE|Y|100|N|XHE
 XHS|SPDR S&P Health Care Services ETF|P|XHS|Y|100|N|XHS
 XIN|Xinyuan Real Estate Co Ltd American Depositary Shares|N|XIN|N|100|N|XIN
-XIV|VelocityShares Daily Inverse VIX Short Term ETN|P|XIV|N|100|N|XIV
 XKE|Lehman ABS Corporation Corporate-Backed Trust Certificates: 7.75% Toys-R-Us Debenture Backed Series 2001-31|N|XKE|N|100|N|XKE
 XL|XL Group plc|N|XL|N|100|N|XL
 XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
@@ -5130,7 +5118,6 @@ ZBZX|BATS BZX Exchange test issue|Z|ZBZX|N|100|Y|ZBZX
 ZEP|Zep Inc. Common Stock|N|ZEP|N|100|N|ZEP
 ZF|Zweig Fund, Inc. (The) Common Stock|N|ZF|N|100|N|ZF
 ZFC|ZAIS Financial Corp. Common Stock|N|ZFC|N|100|N|ZFC
-ZIV|VelocityShares Daily Inverse VIX Medium Term ETN|P|ZIV|N|100|N|ZIV
 ZLC|Zale Corporation Common Stock|N|ZLC|N|100|N|ZLC
 ZMH|Zimmer Holdings, Inc. Common Stock|N|ZMH|N|100|N|ZMH
 ZNH|China Southern Airlines Company Limited Common Stock|N|ZNH|N|100|N|ZNH
@@ -5161,4 +5148,4 @@ ZZH|SM Listed Test 2 Test Stock|N|ZZH|N|100|Y|ZZH
 ZZI|SM Listed Test 2 Test Stock|N|ZZI|N|100|Y|ZZI
 ZZJ|SM Listed Test 2 Test Stock|N|ZZJ|N|100|Y|ZZJ
 ZZJJ|SM Listed Test 2 Test Stock|N|ZZJJ|N|100|Y|ZZJJ
-File Creation Time: 1129201318:01||||||
+File Creation Time: 1202201318:01||||||

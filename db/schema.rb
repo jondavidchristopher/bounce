@@ -43,9 +43,9 @@ ActiveRecord::Schema.define(version: 20131201055357) do
 
   add_index "company_trade_histories", ["adjusted_close"], name: "index_company_trade_histories_on_adjusted_close", using: :btree
   add_index "company_trade_histories", ["close"], name: "index_company_trade_histories_on_close", using: :btree
+  add_index "company_trade_histories", ["company_id", "date"], name: "index_company_trade_histories_on_company_id_and_date", unique: true, using: :btree
   add_index "company_trade_histories", ["company_id"], name: "index_company_trade_histories_on_company_id", using: :btree
   add_index "company_trade_histories", ["high"], name: "index_company_trade_histories_on_high", using: :btree
-  add_index "company_trade_histories", ["id", "date"], name: "index_company_trade_histories_on_id_and_date", unique: true, using: :btree
   add_index "company_trade_histories", ["low"], name: "index_company_trade_histories_on_low", using: :btree
   add_index "company_trade_histories", ["open"], name: "index_company_trade_histories_on_open", using: :btree
   add_index "company_trade_histories", ["sma_100"], name: "index_company_trade_histories_on_sma_100", using: :btree
