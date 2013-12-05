@@ -1,0 +1,2 @@
+Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size
+AAPL|Apple Inc. - Common Stock|Q|N|N|100

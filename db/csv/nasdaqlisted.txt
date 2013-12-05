@@ -405,6 +405,7 @@ CASS|Cass Information Systems, Inc - Common Stock|Q|N|N|100
 CASY|Caseys General Stores, Inc. - Common Stock|Q|N|N|100
 CATM|Cardtronics, Inc. - Common Stock|Q|N|N|100
 CATY|Cathay General Bancorp - Common Stock|Q|N|N|100
+CATYW|Cathay General Bancorp - Warrant|Q|N|N|100
 CAVM|Cavium, Inc. - Common Stock|Q|N|N|100
 CBAK|China BAK Battery, Inc. - Common Stock|G|N|N|100
 CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100
@@ -2445,7 +2446,6 @@ TISA|Top Image Systems, Ltd. - Ordinary Shares|S|N|N|100
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100
 TIVO|TiVo Inc. - Common Stock|Q|N|N|100
 TKMR|Tekmira Pharmaceuticals Corp - Common Stock|S|N|N|100
-TLAB|Tellabs, Inc. - Common Stock|Q|N|N|100
 TLF|Tandy Leather Factory, Inc. - Common Stock|G|N|N|100
 TMNG|The Management Network Group, Inc. - Common Stock|G|N|N|100
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100
@@ -2770,4 +2770,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 1203201318:01|||||
+File Creation Time: 1204201315:41|||||

@@ -66,8 +66,9 @@ group :development, :test do
 end
 
 group :test do	
+	gem "database_cleaner", "~> 1.2.0"
 	gem "vcr", "~> 2.8.0"
-	gem "fakeweb", "~> 1.3.0"
+	gem "webmock", "~> 1.16.0"
 	gem "faker", "~> 1.2.0"
 	gem "capybara", "~> 2.2.0" 
 	gem "guard-rspec", "~> 4.0.4"
